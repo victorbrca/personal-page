@@ -1,8 +1,8 @@
-baseurl = "https://example.org/"
+baseurl = "https://victorbrca.github.io/"
 languageCode = "en-us"
 title = "Victor Mendonça"
 theme = "hugo-strata-theme"
-disqusShortname = "spf13"
+disqusShortname = "victorbrca-github-io"
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = ""
 # Define how many posts should appear on a site
