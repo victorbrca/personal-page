@@ -48,7 +48,7 @@ pygmentscodefences = "true"
 	[params.about]
 		hide  = false
 		title = "**Hi, I'm Victor**"
-		content = "**an independent IT contractor with strong Linux background living in Toronto.**<br /><br />Somehow you've got here, and I'm hoping you know how. But fear not, if you got here by mistake, either keep on browsing, or just hit the back button on your browser and go back to searching cat videos. **No hard feelings.** ;-p<br /><br />Here you find various information about me, both professional and personal, my hobbies, history and other things about myself.<br /><br /> I hope you enjoy it. "
+		content = "**an independent IT contractor with strong Linux background living in Toronto.**<br /><br />Somehow you've got here, and I'm hoping you know how. But fear not, if you got here by mistake, either keep on browsing, or just hit the back button on your browser and go back to searching cat videos. No hard feelings. ;-p<br /><br />Here you will find various information about me, both professional and personal, my hobbies, history and other things about myself.<br /><br /> I hope you enjoy it. "
 
 
 	[params.portfolio]
