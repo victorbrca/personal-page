@@ -1,4 +1,6 @@
 baseurl = "https://victorbrca.github.io/personal/"
+# baseurl = "https://victormendonca.com/personal/"
+# baseurl = "/"
 languageCode = "en-us"
 title = "Victor Mendonça"
 theme = "hugo-strata-theme"
